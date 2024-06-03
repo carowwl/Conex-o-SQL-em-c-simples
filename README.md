@@ -1,2 +1,2 @@
-  Esse é um do projetos exigidos pela UNIP, o "Projeto integrador multidisciplinar" feito no 3º semestre :).
-  Com o uso da lingague C# e o SQL báisco.
+  Esse é um do projetos exigidos pela UNIP usando o banco de dados SQL na linguagem C#, o PIM (Projeto integrador multidisciplinar) feito no 3º semestre :).
+  
